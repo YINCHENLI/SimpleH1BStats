@@ -6,7 +6,7 @@ There are 2 Map Reduce Jobs simulated in Python.
  - mapper1.py - clean data, count 1 for each occupation (certified)
  - reducer1.py - sum up for each occupation
 2. Second job is to sum up and rank the top 10 certified H1B work states
- - mapper1.py - clean data, count 1 for each work state (certifed)
+ - mapper2.py - clean data, count 1 for each work state (certifed)
  - reducer2.py - sum up for each state
 
 ### Language
