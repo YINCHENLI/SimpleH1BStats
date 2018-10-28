@@ -9,10 +9,10 @@ There are 2 Map Reduce Jobs simulated in Python.
  - Mapper - clean data, count 1 for each work state (certifed)
  - Reducer - sum up for each state
 
-###Language
+### Language
 Python 3
 
-###Sorting
+### Sorting
 I am using pipe simulation, taking advantage of Linux/Unix sorting commands.
 The following is the example occupation pipe in `./run.sh` file
 
