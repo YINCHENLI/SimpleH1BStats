@@ -3,11 +3,11 @@
 There are 2 Map Reduce Jobs simulated in Python.
 
 1. One job is to sum up and rank the top 10 certified occupations
- - Mapper - clean data, count 1 for each occupation (certified)
- - Reducer - sum up for each occupation
+ - mapper1.py - clean data, count 1 for each occupation (certified)
+ - reducer1.py - sum up for each occupation
 2. Second job is to sum up and rank the top 10 certified H1B work states
- - Mapper - clean data, count 1 for each work state (certifed)
- - Reducer - sum up for each state
+ - mapper1.py - clean data, count 1 for each work state (certifed)
+ - reducer2.py - sum up for each state
 
 ### Language
 Python 3
